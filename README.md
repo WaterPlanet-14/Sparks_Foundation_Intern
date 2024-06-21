@@ -1,5 +1,7 @@
 # Sparks_Foundation_Intern
 This repository has tasks related to the Web and App Development internship while being the part of GRIP from the sparks foundation
+
+
 # React-Banking-System
 
 ## [LIVE DEMO](https://bank-system-app.web.app/Home)
@@ -71,10 +73,3 @@ After Clicking on (History) button you will be redirected to the page where you 
 
 
 ![image](https://user-images.githubusercontent.com/88718975/174403986-ba070252-25c0-43c3-a866-28eb108eba16.png)
-
-
-
-
-###### Details about the internship: 
-
-Internship Duration - 2 Month ( MAY-2022 ).
